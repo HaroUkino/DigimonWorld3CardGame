@@ -1,0 +1,16 @@
+{
+    "name": "DWCGEditor",
+    "rootNamespace": "DWCGEditor",
+    "references": [
+        "GUID:773266a7c141b8f44b5fac1d419f0302"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c54942323e875a843b58b36e604230d1, type: 3}
+  m_Name: Mojyamon
+  m_EditorClassIdentifier: 
+  CardSprite: {fileID: 2803511610263086025, guid: 87bb956144832c44bb395e3846189dce,
+    type: 3}
+  ID: 133
+  cardColor: 2
+  AP: 11
+  HP: 12
+  CardsDescription: 
+  digimonTier: 1
+  specialTarget: 0
+  SpecialValue: 0
+  BothPlayersCount: 0
+  ComboCard: {fileID: 11400000, guid: 401d9817b66b01847859731a8e525eb8, type: 2}

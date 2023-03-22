@@ -1,0 +1,1160 @@
+fileFormatVersion: 2
+guid: 3f885211220ee174eaf382e933d68f40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7457184100718418671
+    second: BlackCards_0
+  - first:
+      213: 5274126832123144140
+    second: BlackCards_1
+  - first:
+      213: -5254844459394873638
+    second: BlackCards_2
+  - first:
+      213: 8983718361235815947
+    second: BlackCards_3
+  - first:
+      213: -6465520851282975474
+    second: BlackCards_4
+  - first:
+      213: -4206580020566769236
+    second: BlackCards_5
+  - first:
+      213: 8516107948549900346
+    second: BlackCards_6
+  - first:
+      213: 8334791424213085933
+    second: BlackCards_7
+  - first:
+      213: 9058813849053197290
+    second: BlackCards_8
+  - first:
+      213: 5824623668465760049
+    second: BlackCards_9
+  - first:
+      213: -8496711510063604005
+    second: BlackCards_10
+  - first:
+      213: 7521978397423189022
+    second: BlackCards_11
+  - first:
+      213: -6792065808940540102
+    second: BlackCards_12
+  - first:
+      213: 9127736557031853559
+    second: BlackCards_13
+  - first:
+      213: -4667827108468647918
+    second: BlackCards_14
+  - first:
+      213: -6145771208912936649
+    second: BlackCards_15
+  - first:
+      213: 6835205349752129220
+    second: BlackCards_16
+  - first:
+      213: 6684563249163590480
+    second: BlackCards_17
+  - first:
+      213: -1850976041509351296
+    second: BlackCards_18
+  - first:
+      213: 7843649761889368930
+    second: BlackCards_19
+  - first:
+      213: 2724474101012785738
+    second: BlackCards_20
+  - first:
+      213: -4179904354744280953
+    second: BlackCards_21
+  - first:
+      213: -8711538386774901480
+    second: BlackCards_22
+  - first:
+      213: -3243340444721505286
+    second: BlackCards_23
+  - first:
+      213: 4914409658211977053
+    second: BlackCards_24
+  - first:
+      213: 5283500346432661521
+    second: BlackCards_25
+  - first:
+      213: -6792478586593832213
+    second: BlackCards_26
+  - first:
+      213: 8632041524071936577
+    second: BlackCards_27
+  - first:
+      213: 5429921707985971518
+    second: BlackCards_28
+  - first:
+      213: 7544676615466443579
+    second: BlackCards_29
+  - first:
+      213: 1862520064317053773
+    second: BlackCards_30
+  - first:
+      213: 6859128941032512275
+    second: BlackCards_31
+  - first:
+      213: -5939496735742877705
+    second: BlackCards_32
+  - first:
+      213: -3386893554537421408
+    second: BlackCards_33
+  - first:
+      213: -250292054995176600
+    second: BlackCards_34
+  - first:
+      213: -1556329469188821064
+    second: BlackCards_35
+  - first:
+      213: -6575354228037428033
+    second: BlackCards_36
+  - first:
+      213: -3777778831173880407
+    second: BlackCards_37
+  - first:
+      213: -3079598940462882364
+    second: BlackCards_38
+  - first:
+      213: 489779177803194091
+    second: BlackCards_39
+  - first:
+      213: 8394611078098349980
+    second: BlackCards_40
+  - first:
+      213: 4984512203794048324
+    second: BlackCards_41
+  - first:
+      213: -3181393020021591236
+    second: BlackCards_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18.95
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlackCards_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 288
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea13040e6d3d7760800000000000000
+      internalID: 7457184100718418671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 288
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc76e090966713940800000000000000
+      internalID: 5274126832123144140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 288
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6c6d73eca0317b0800000000000000
+      internalID: -5254844459394873638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 288
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e7d9370449cac70800000000000000
+      internalID: 8983718361235815947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 288
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05a563aa0bd546a0800000000000000
+      internalID: -6465520851282975474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 288
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1ccda32c93f95c0800000000000000
+      internalID: -4206580020566769236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 288
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3882361f0b4f2670800000000000000
+      internalID: 8516107948549900346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 241
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee613504a02ba370800000000000000
+      internalID: 8334791424213085933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 241
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae37437333f57bd70800000000000000
+      internalID: 9058813849053197290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 241
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137fb35cd5835d050800000000000000
+      internalID: 5824623668465760049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 241
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde9fab26ed951a80800000000000000
+      internalID: -8496711510063604005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 241
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c3292df7f636860800000000000000
+      internalID: 7521978397423189022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 241
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fd507f12cbdb1a0800000000000000
+      internalID: -6792065808940540102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 241
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd0b3da90c3cae70800000000000000
+      internalID: 9127736557031853559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 194
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21899ced9fb883fb0800000000000000
+      internalID: -4667827108468647918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 194
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731ebeda5a5d5baa0800000000000000
+      internalID: -6145771208912936649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 194
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c643d61d078bde50800000000000000
+      internalID: 6835205349752129220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 194
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bd609dbd654cc50800000000000000
+      internalID: 6684563249163590480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 194
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080931ed8130056e0800000000000000
+      internalID: -1850976041509351296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 194
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b3ef7a6ed3adc60800000000000000
+      internalID: 7843649761889368930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 194
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a6e9e82c64fc520800000000000000
+      internalID: 2724474101012785738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 147
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788db5ca22ffdf5c0800000000000000
+      internalID: -4179904354744280953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 147
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d3a113ef56a1780800000000000000
+      internalID: -8711538386774901480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 147
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb97baac075df2d0800000000000000
+      internalID: -3243340444721505286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 147
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d574976eb8d733440800000000000000
+      internalID: 4914409658211977053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 147
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118a5c76293c25940800000000000000
+      internalID: 5283500346432661521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_26
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 147
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be290ada6b44cb1a0800000000000000
+      internalID: -6792478586593832213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 147
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142bab8180c2bc770800000000000000
+      internalID: 8632041524071936577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39afa24605fa5b40800000000000000
+      internalID: 5429921707985971518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33e21a886314b860800000000000000
+      internalID: 7544676615466443579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 100
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bd7a4612009d910800000000000000
+      internalID: 1862520064317053773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 100
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b18de3e65803f50800000000000000
+      internalID: 6859128941032512275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_32
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 100
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff1479003ba29da0800000000000000
+      internalID: -5939496735742877705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_33
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 100
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5acb5b1465ff0d0800000000000000
+      internalID: -3386893554537421408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 100
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863f8ebb3b8c68cf0800000000000000
+      internalID: -250292054995176600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 53
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf2783f79ec66ae0800000000000000
+      internalID: -1556329469188821064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 53
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc5775da26afb4a0800000000000000
+      internalID: -6575354228037428033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_37
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 53
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5f3e72b22a29bc0800000000000000
+      internalID: -3777778831173880407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 53
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c16a0f74111345d0800000000000000
+      internalID: -3079598940462882364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_39
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 53
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee9757319b0cc600800000000000000
+      internalID: 489779177803194091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_40
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 53
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f6c998c46af7470800000000000000
+      internalID: 8394611078098349980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 53
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4456eb5b07b8c2540800000000000000
+      internalID: 4984512203794048324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackCards_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33b4be67eb69d3d0800000000000000
+      internalID: -3181393020021591236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

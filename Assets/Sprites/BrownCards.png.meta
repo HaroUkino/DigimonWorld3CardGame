@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: f29d6e30edb672e46b163cc5a6d41f5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8538034523184464805
+    second: BrownCards_0
+  - first:
+      213: -8461091502136538056
+    second: BrownCards_1
+  - first:
+      213: -5492985999408650384
+    second: BrownCards_2
+  - first:
+      213: 5922371654243574662
+    second: BrownCards_3
+  - first:
+      213: 1848129136988079081
+    second: BrownCards_4
+  - first:
+      213: 9208555479596690291
+    second: BrownCards_5
+  - first:
+      213: 8038107085438249596
+    second: BrownCards_6
+  - first:
+      213: 8484658968128717928
+    second: BrownCards_7
+  - first:
+      213: 117206144668478817
+    second: BrownCards_8
+  - first:
+      213: -5019236225085731891
+    second: BrownCards_9
+  - first:
+      213: 6280734035847165589
+    second: BrownCards_10
+  - first:
+      213: -873655101684224882
+    second: BrownCards_11
+  - first:
+      213: -6044146794620689331
+    second: BrownCards_12
+  - first:
+      213: 7037681780778778662
+    second: BrownCards_13
+  - first:
+      213: -852722382370186768
+    second: BrownCards_14
+  - first:
+      213: -6042411499985444715
+    second: BrownCards_15
+  - first:
+      213: 6772986214609150245
+    second: BrownCards_16
+  - first:
+      213: 5024133545453837519
+    second: BrownCards_17
+  - first:
+      213: 303692365431386262
+    second: BrownCards_18
+  - first:
+      213: -3182635086607088080
+    second: BrownCards_19
+  - first:
+      213: -5545721397189749450
+    second: BrownCards_20
+  - first:
+      213: -9013925492553504861
+    second: BrownCards_21
+  - first:
+      213: 4220860642853525831
+    second: BrownCards_22
+  - first:
+      213: 3052179653809919908
+    second: BrownCards_23
+  - first:
+      213: -7045713908452785145
+    second: BrownCards_24
+  - first:
+      213: -6490219854415274584
+    second: BrownCards_25
+  - first:
+      213: -5240512239750440087
+    second: BrownCards_26
+  - first:
+      213: -7751936489229652019
+    second: BrownCards_27
+  - first:
+      213: -8513027493579405834
+    second: BrownCards_28
+  - first:
+      213: 1138478160618277083
+    second: BrownCards_29
+  - first:
+      213: -313302576127107759
+    second: BrownCards_30
+  - first:
+      213: -5847381012496910727
+    second: BrownCards_31
+  - first:
+      213: 1763322307394442086
+    second: BrownCards_32
+  - first:
+      213: 2489421708624553472
+    second: BrownCards_33
+  - first:
+      213: -4137238795977750279
+    second: BrownCards_34
+  - first:
+      213: -7874723682753337433
+    second: BrownCards_35
+  - first:
+      213: -8461440340228679186
+    second: BrownCards_36
+  - first:
+      213: 14339891505405616
+    second: BrownCards_37
+  - first:
+      213: -8799216716908513530
+    second: BrownCards_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18.95
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BrownCards_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 288
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a38e6299213d7670800000000000000
+      internalID: 8538034523184464805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 288
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c431b8b1a249a80800000000000000
+      internalID: -8461091502136538056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 288
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077ad0d265ef4c3b0800000000000000
+      internalID: -5492985999408650384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 288
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683e70734ad703250800000000000000
+      internalID: 5922371654243574662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 288
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3493588afd5a910800000000000000
+      internalID: 1848129136988079081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 288
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b66df6b6c5bcf70800000000000000
+      internalID: 9208555479596690291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 288
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ae8167ec71d8f60800000000000000
+      internalID: 8038107085438249596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 241
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86405abb0609fb570800000000000000
+      internalID: 8484658968128717928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 241
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d257a1e5660a100800000000000000
+      internalID: 117206144668478817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 241
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb0eff0f37185ab0800000000000000
+      internalID: -5019236225085731891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 241
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596306f2456a92750800000000000000
+      internalID: 6280734035847165589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 241
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c67e7505720e3f0800000000000000
+      internalID: -873655101684224882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 241
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4461587380ee1ca0800000000000000
+      internalID: -6044146794620689331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 241
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620ce89da4edaa160800000000000000
+      internalID: 7037681780778778662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 194
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9dccad2858a24f0800000000000000
+      internalID: -852722382370186768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 194
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590e1ac31ca052ca0800000000000000
+      internalID: -6042411499985444715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 194
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521656ec31b7efd50800000000000000
+      internalID: 6772986214609150245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 194
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc56e037de49b540800000000000000
+      internalID: 5024133545453837519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 194
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690398ae89ee63400800000000000000
+      internalID: 303692365431386262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 194
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0360715404205d3d0800000000000000
+      internalID: -3182635086607088080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 194
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635d83195c3a903b0800000000000000
+      internalID: -5545721397189749450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 147
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7a288b58a18e280800000000000000
+      internalID: -9013925492553504861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 147
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74916bf3462839a30800000000000000
+      internalID: 4220860642853525831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 147
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7d30859358b5a20800000000000000
+      internalID: 3052179653809919908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 147
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70484a1b788983e90800000000000000
+      internalID: -7045713908452785145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 147
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8add367dd6b1ee5a0800000000000000
+      internalID: -6490219854415274584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_26
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 147
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b969422e5f547b0800000000000000
+      internalID: -5240512239750440087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 147
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfe316a5d69b6490800000000000000
+      internalID: -7751936489229652019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5c01a3996abd980800000000000000
+      internalID: -8513027493579405834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8413ceadfaccf00800000000000000
+      internalID: 1138478160618277083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 100
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d9aba87fce6abf0800000000000000
+      internalID: -313302576127107759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 100
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976f1cb23fde9dea0800000000000000
+      internalID: -5847381012496910727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_32
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 100
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66394cccb44987810800000000000000
+      internalID: 1763322307394442086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_33
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 100
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00666bebad33c8220800000000000000
+      internalID: 2489421708624553472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 100
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f808ce2c339596c0800000000000000
+      internalID: -4137238795977750279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 53
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7a129588c57b290800000000000000
+      internalID: -7874723682753337433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 53
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9528857dce29a80800000000000000
+      internalID: -8461440340228679186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_37
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 53
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be1c4b2e02f23000800000000000000
+      internalID: 14339891505405616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownCards_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 53
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6073df62407e2e580800000000000000
+      internalID: -8799216716908513530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

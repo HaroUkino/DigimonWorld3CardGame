@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c54942323e875a843b58b36e604230d1, type: 3}
+  m_Name: Penguinmon
+  m_EditorClassIdentifier: 
+  CardSprite: {fileID: -5518558681556920385, guid: 2d2a93b763c4bf14eb5e70d5fe5fba5a,
+    type: 3}
+  ID: 232
+  cardColor: 3
+  AP: 1
+  HP: 1
+  CardsDescription: 
+  digimonTier: 0
+  specialTarget: 0
+  SpecialValue: 0
+  BothPlayersCount: 0
+  ComboCard: {fileID: 11400000, guid: aebaef45e04dfab43834cc8355df49b9, type: 2}

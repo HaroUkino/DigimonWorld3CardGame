@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c54942323e875a843b58b36e604230d1, type: 3}
+  m_Name: Giromon
+  m_EditorClassIdentifier: 
+  CardSprite: {fileID: -873655101684224882, guid: f29d6e30edb672e46b163cc5a6d41f5d,
+    type: 3}
+  ID: 287
+  cardColor: 5
+  AP: 29
+  HP: 29
+  CardsDescription: 
+  digimonTier: 0
+  specialTarget: 0
+  SpecialValue: 0
+  BothPlayersCount: 0
+  ComboCard: {fileID: 11400000, guid: 369a6fd57fbac3b42adb09165aedd5e5, type: 2}

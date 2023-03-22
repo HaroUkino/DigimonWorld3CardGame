@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c54942323e875a843b58b36e604230d1, type: 3}
+  m_Name: Mammothmon
+  m_EditorClassIdentifier: 
+  CardSprite: {fileID: 3189366624101352691, guid: 2d2a93b763c4bf14eb5e70d5fe5fba5a,
+    type: 3}
+  ID: 208
+  cardColor: 3
+  AP: 20
+  HP: 18
+  CardsDescription: 
+  digimonTier: 2
+  specialTarget: 0
+  SpecialValue: 0
+  BothPlayersCount: 0
+  ComboCard: {fileID: 11400000, guid: a26694cd61cd9bc4fb543e973153631a, type: 2}

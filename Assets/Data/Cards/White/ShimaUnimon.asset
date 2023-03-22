@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c54942323e875a843b58b36e604230d1, type: 3}
+  m_Name: ShimaUnimon
+  m_EditorClassIdentifier: 
+  CardSprite: {fileID: 2544475231450230093, guid: eea161050b5380446b7acb94c7b86118,
+    type: 3}
+  ID: 90
+  cardColor: 0
+  AP: 11
+  HP: 11
+  CardsDescription: 
+  digimonTier: 1
+  specialTarget: 0
+  SpecialValue: 0
+  BothPlayersCount: 0
+  ComboCard: {fileID: 11400000, guid: 7891e31590c66d5449afa9aa53b83d25, type: 2}

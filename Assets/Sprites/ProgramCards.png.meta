@@ -1,0 +1,1568 @@
+fileFormatVersion: 2
+guid: eee2865d32394424f9a4315b3de99df4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -14109502962531363
+    second: ProgramCards_0
+  - first:
+      213: 8896906470842737944
+    second: ProgramCards_1
+  - first:
+      213: 3512155101954082864
+    second: ProgramCards_2
+  - first:
+      213: 8906824754765218781
+    second: ProgramCards_3
+  - first:
+      213: -4406422788243713851
+    second: ProgramCards_4
+  - first:
+      213: 4345464187662415579
+    second: ProgramCards_5
+  - first:
+      213: -204635427868522608
+    second: ProgramCards_6
+  - first:
+      213: 4344402946073903817
+    second: ProgramCards_7
+  - first:
+      213: 3803990580961802970
+    second: ProgramCards_8
+  - first:
+      213: 6926356344999458925
+    second: ProgramCards_9
+  - first:
+      213: -5192751985751470188
+    second: ProgramCards_10
+  - first:
+      213: 3479757439251803799
+    second: ProgramCards_11
+  - first:
+      213: -1855330757019992017
+    second: ProgramCards_12
+  - first:
+      213: 6563698512094149949
+    second: ProgramCards_13
+  - first:
+      213: -8674745774754146558
+    second: ProgramCards_14
+  - first:
+      213: 1427401961528835359
+    second: ProgramCards_15
+  - first:
+      213: -7045026423074853491
+    second: ProgramCards_16
+  - first:
+      213: 2871500889205178746
+    second: ProgramCards_17
+  - first:
+      213: -1118809637463225447
+    second: ProgramCards_18
+  - first:
+      213: -6539745292548506373
+    second: ProgramCards_19
+  - first:
+      213: -7027541051664114270
+    second: ProgramCards_20
+  - first:
+      213: -329075409772154011
+    second: ProgramCards_21
+  - first:
+      213: 7802341410183682570
+    second: ProgramCards_22
+  - first:
+      213: 6123215252001954119
+    second: ProgramCards_23
+  - first:
+      213: 8622972546582340323
+    second: ProgramCards_24
+  - first:
+      213: -807035702845116976
+    second: ProgramCards_25
+  - first:
+      213: -4897244565659164993
+    second: ProgramCards_26
+  - first:
+      213: 6585188875382567229
+    second: ProgramCards_27
+  - first:
+      213: -7860570299108291836
+    second: ProgramCards_28
+  - first:
+      213: 3555668826992436207
+    second: ProgramCards_29
+  - first:
+      213: 4101306127336090014
+    second: ProgramCards_30
+  - first:
+      213: -7882933054100196630
+    second: ProgramCards_31
+  - first:
+      213: -3217922739273205429
+    second: ProgramCards_32
+  - first:
+      213: 1999849113815809824
+    second: ProgramCards_33
+  - first:
+      213: -5707266192019388027
+    second: ProgramCards_34
+  - first:
+      213: 4249826460426566440
+    second: ProgramCards_35
+  - first:
+      213: 1863585589598201587
+    second: ProgramCards_36
+  - first:
+      213: -2881467937182705626
+    second: ProgramCards_37
+  - first:
+      213: -7477127730317721055
+    second: ProgramCards_38
+  - first:
+      213: -3095496962702844618
+    second: ProgramCards_39
+  - first:
+      213: 2184231617660282238
+    second: ProgramCards_40
+  - first:
+      213: 5816726852913258801
+    second: ProgramCards_41
+  - first:
+      213: 2043340055136121581
+    second: ProgramCards_42
+  - first:
+      213: 5266522342329333080
+    second: ProgramCards_43
+  - first:
+      213: 8885024517064151153
+    second: ProgramCards_44
+  - first:
+      213: 8763336547154713683
+    second: ProgramCards_45
+  - first:
+      213: 1075138889773554183
+    second: ProgramCards_46
+  - first:
+      213: -8095424511703426216
+    second: ProgramCards_47
+  - first:
+      213: -6535251944421432642
+    second: ProgramCards_48
+  - first:
+      213: 4436018315585913460
+    second: ProgramCards_49
+  - first:
+      213: -2752924639065143433
+    second: ProgramCards_50
+  - first:
+      213: 8591081265609679751
+    second: ProgramCards_51
+  - first:
+      213: 7145312543590461975
+    second: ProgramCards_52
+  - first:
+      213: 3852358587540080150
+    second: ProgramCards_53
+  - first:
+      213: 8609028010051187016
+    second: ProgramCards_54
+  - first:
+      213: 6781759424638347904
+    second: ProgramCards_55
+  - first:
+      213: 3252444494294335645
+    second: ProgramCards_56
+  - first:
+      213: -1931209764269838191
+    second: ProgramCards_57
+  - first:
+      213: 875441265076208672
+    second: ProgramCards_58
+  - first:
+      213: -6669510325368746107
+    second: ProgramCards_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18.95
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProgramCards_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 422
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd306f75b7fddcff0800000000000000
+      internalID: -14109502962531363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 422
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815a4722c49287b70800000000000000
+      internalID: 8896906470842737944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 422
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0388c00057eadb030800000000000000
+      internalID: 3512155101954082864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 422
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3cf609ce56b9b70800000000000000
+      internalID: 8906824754765218781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 422
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c01c8002dd39d2c0800000000000000
+      internalID: -4406422788243713851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 422
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6bcc9c7a03e4c30800000000000000
+      internalID: 4345464187662415579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 421
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097cf6d992df82df0800000000000000
+      internalID: -204635427868522608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 374
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c245e9367b6a4c30800000000000000
+      internalID: 4344402946073903817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 374
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaf82b674d7ac430800000000000000
+      internalID: 3803990580961802970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 374
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68377bf56c5f1060800000000000000
+      internalID: 6926356344999458925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 374
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f4492d493afe7b0800000000000000
+      internalID: -5192751985751470188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 374
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e602754f49a4030800000000000000
+      internalID: 3479757439251803799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 374
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2087f6a18a8046e0800000000000000
+      internalID: -1855330757019992017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 374
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3db1225501f61b50800000000000000
+      internalID: 6563698512094149949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 327
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20755fabdac1d9780800000000000000
+      internalID: -8674745774754146558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 327
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d3f9475862fc310800000000000000
+      internalID: 1427401961528835359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 327
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8de16b5bc90b3e90800000000000000
+      internalID: -7045026423074853491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 327
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a710b4948de99d720800000000000000
+      internalID: 2871500889205178746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 327
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b88bbff803970f0800000000000000
+      internalID: -1118809637463225447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 327
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcfc143e482e35a0800000000000000
+      internalID: -6539745292548506373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 327
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2add513a5a8297e90800000000000000
+      internalID: -7027541051664114270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 280
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563f63888a3ee6bf0800000000000000
+      internalID: -329075409772154011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 280
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a915a8c2c774c60800000000000000
+      internalID: 7802341410183682570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 280
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74994da54d70af450800000000000000
+      internalID: 6123215252001954119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 280
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e26cfa38d3faa770800000000000000
+      internalID: 8622972546582340323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 280
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddebdadd45dcc4f0800000000000000
+      internalID: -807035702845116976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_26
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 280
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe5ca5a30e790cb0800000000000000
+      internalID: -4897244565659164993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 280
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d313800746a436b50800000000000000
+      internalID: 6585188875382567229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 233
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b0aa5c5f4a9e290800000000000000
+      internalID: -7860570299108291836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 233
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe360db95f5485130800000000000000
+      internalID: 3555668826992436207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 233
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9920037134cae830800000000000000
+      internalID: 4101306127336090014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 233
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae23c2227223a9290800000000000000
+      internalID: -7882933054100196630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_32
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 233
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49f7f26154a753d0800000000000000
+      internalID: -3217922739273205429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_33
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 233
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ffe516c24e0cb10800000000000000
+      internalID: 1999849113815809824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 233
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589861203a7bbc0b0800000000000000
+      internalID: -5707266192019388027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 186
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bf7c236aa6afa30800000000000000
+      internalID: 4249826460426566440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 186
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6a9845839ccd910800000000000000
+      internalID: 1863585589598201587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_37
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 186
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6281c848d28f208d0800000000000000
+      internalID: -2881467937182705626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 186
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122803ed1f7eb3890800000000000000
+      internalID: -7477127730317721055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_39
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 186
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ddbceb9e59a05d0800000000000000
+      internalID: -3095496962702844618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_40
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 186
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7561dd6513ff4e10800000000000000
+      internalID: 2184231617660282238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 186
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131ee5f114a29b050800000000000000
+      internalID: 5816726852913258801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 139
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de237bd34f66b5c10800000000000000
+      internalID: 2043340055136121581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_43
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 139
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855b238ca22761940800000000000000
+      internalID: 5266522342329333080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_44
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 139
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170de3039b2fd4b70800000000000000
+      internalID: 8885024517064151153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_45
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 139
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cda54d820ad9970800000000000000
+      internalID: 8763336547154713683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_46
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 139
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a1929bf19abee00800000000000000
+      internalID: 1075138889773554183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_47
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 139
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b5de94c4647af80800000000000000
+      internalID: -8095424511703426216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_48
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 139
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb264175bfe1e45a0800000000000000
+      internalID: -6535251944421432642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 92
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47200ada727ef8d30800000000000000
+      internalID: 4436018315585913460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_50
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 92
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7770a1b50a5abc9d0800000000000000
+      internalID: -2752924639065143433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 92
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783ad21c4e6a93770800000000000000
+      internalID: 8591081265609679751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 92
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7123ad1a6ef392360800000000000000
+      internalID: 7145312543590461975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_53
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 92
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61680c589b3567530800000000000000
+      internalID: 3852358587540080150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_54
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 92
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8413d70dc59697770800000000000000
+      internalID: 8609028010051187016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_55
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 92
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ae9b1f346ad1e50800000000000000
+      internalID: 6781759424638347904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_56
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 45
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90c61e0901032d20800000000000000
+      internalID: 3252444494294335645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 45
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1903eed83f6f235e0800000000000000
+      internalID: -1931209764269838191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_58
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 45
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024069a3131362c00800000000000000
+      internalID: 875441265076208672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgramCards_59
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 45
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f889612b32173a0800000000000000
+      internalID: -6669510325368746107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd41721f263864f439ae26eec073b53c, type: 3}
+  m_Name: DebugDeck2
+  m_EditorClassIdentifier: 
+  DeckName: Debug_1
+  DeckOwner: SYSTEM
+  Deck:
+  - {fileID: 11400000, guid: 510242095dd14a84f8fe12fe039abeb9, type: 2}
+  - {fileID: 11400000, guid: a47f63d8fcceb1b42863e195fa4a34e3, type: 2}
+  - {fileID: 11400000, guid: d6537613d544d934e876204a7b51a9b0, type: 2}
+  - {fileID: 11400000, guid: 52cb18767e0eb4a4796f9c1f9c1061dd, type: 2}
+  - {fileID: 11400000, guid: cbff67a14a8e84240bab6bbc15d7c71a, type: 2}
+  - {fileID: 11400000, guid: 74cd655f654269444843549acec50cf5, type: 2}
+  - {fileID: 11400000, guid: 258a2572948820f47bc4071c1e60b9cb, type: 2}
+  - {fileID: 11400000, guid: 87c56aaad75ef3d48861473310cc776b, type: 2}
+  - {fileID: 11400000, guid: 25856eb8738fe8343b2c47f24b8f38b4, type: 2}
+  - {fileID: 11400000, guid: bcb67918d596f474090ad8aa3d2d9c33, type: 2}
+  Amount: 04000000040000000400000004000000040000000400000004000000040000000400000004000000

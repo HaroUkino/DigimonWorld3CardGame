@@ -1,0 +1,1160 @@
+fileFormatVersion: 2
+guid: eea161050b5380446b7acb94c7b86118
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9176636942484218386
+    second: WhiteCards_0
+  - first:
+      213: 5593276352701262134
+    second: WhiteCards_1
+  - first:
+      213: 3446994835959161584
+    second: WhiteCards_2
+  - first:
+      213: -3462116515326521478
+    second: WhiteCards_3
+  - first:
+      213: 790053720654585064
+    second: WhiteCards_4
+  - first:
+      213: 2003917738171109602
+    second: WhiteCards_5
+  - first:
+      213: 4761561761307978774
+    second: WhiteCards_6
+  - first:
+      213: -4141204916669986232
+    second: WhiteCards_7
+  - first:
+      213: -5701296410651304624
+    second: WhiteCards_8
+  - first:
+      213: 7298269738979086458
+    second: WhiteCards_9
+  - first:
+      213: 809742888742345613
+    second: WhiteCards_10
+  - first:
+      213: 6158992612217969625
+    second: WhiteCards_11
+  - first:
+      213: 7162130850802058238
+    second: WhiteCards_12
+  - first:
+      213: 178818347719913919
+    second: WhiteCards_13
+  - first:
+      213: 1942091836395331879
+    second: WhiteCards_14
+  - first:
+      213: -6773192360179472560
+    second: WhiteCards_15
+  - first:
+      213: 8963040482289377932
+    second: WhiteCards_16
+  - first:
+      213: -7920802998418712327
+    second: WhiteCards_17
+  - first:
+      213: 7291429529600388926
+    second: WhiteCards_18
+  - first:
+      213: -7412881326530648430
+    second: WhiteCards_19
+  - first:
+      213: 7962957325691224249
+    second: WhiteCards_20
+  - first:
+      213: -4172928806954574996
+    second: WhiteCards_21
+  - first:
+      213: -4707601911707805416
+    second: WhiteCards_22
+  - first:
+      213: -2636824365685001336
+    second: WhiteCards_23
+  - first:
+      213: -2087548482533847257
+    second: WhiteCards_24
+  - first:
+      213: 111561582728678932
+    second: WhiteCards_25
+  - first:
+      213: -394943996450413831
+    second: WhiteCards_26
+  - first:
+      213: -6495388009540653201
+    second: WhiteCards_27
+  - first:
+      213: 205299847740607005
+    second: WhiteCards_28
+  - first:
+      213: 2544475231450230093
+    second: WhiteCards_29
+  - first:
+      213: -1005083926061723377
+    second: WhiteCards_30
+  - first:
+      213: -3918351713390375082
+    second: WhiteCards_31
+  - first:
+      213: -5339262940567152066
+    second: WhiteCards_32
+  - first:
+      213: -7976980297039570396
+    second: WhiteCards_33
+  - first:
+      213: -398291173819334598
+    second: WhiteCards_34
+  - first:
+      213: -7738179237690163504
+    second: WhiteCards_35
+  - first:
+      213: -2932677074103845105
+    second: WhiteCards_36
+  - first:
+      213: -8100386274575408565
+    second: WhiteCards_37
+  - first:
+      213: -3993023094489798123
+    second: WhiteCards_38
+  - first:
+      213: 6484950354998699228
+    second: WhiteCards_39
+  - first:
+      213: -2396098116682489478
+    second: WhiteCards_40
+  - first:
+      213: 7416907566564299181
+    second: WhiteCards_41
+  - first:
+      213: -8493711811165096403
+    second: WhiteCards_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18.95
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WhiteCards_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 289
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212af75eda6f95f70800000000000000
+      internalID: 9176636942484218386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 289
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639e955553f4f9d40800000000000000
+      internalID: 5593276352701262134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 289
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2a3f35a8f26df20800000000000000
+      internalID: 3446994835959161584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 289
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f03f45f5714ffc0800000000000000
+      internalID: -3462116515326521478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 289
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec971d4ca5d6fa00800000000000000
+      internalID: 790053720654585064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 289
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e01bcec0985fcb10800000000000000
+      internalID: 2003917738171109602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 289
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c68dea137741240800000000000000
+      internalID: 4761561761307978774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 242
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ac8cfb11c7786c0800000000000000
+      internalID: -4141204916669986232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 242
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d5beb0f1de0e0b0800000000000000
+      internalID: -5701296410651304624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 242
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70d4d2e8a9a84560800000000000000
+      internalID: 7298269738979086458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 242
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bd2eafdd8cc3b00800000000000000
+      internalID: 809742888742345613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 242
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbd1892623297550800000000000000
+      internalID: 6158992612217969625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 242
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef34cecef00056360800000000000000
+      internalID: 7162130850802058238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 242
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1fa2ff65a4b7200800000000000000
+      internalID: 178818347719913919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 195
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721a78d4c32b3fa10800000000000000
+      internalID: 1942091836395331879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 195
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057ec103f69c002a0800000000000000
+      internalID: -6773192360179472560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 195
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82ed4694dd136c70800000000000000
+      internalID: 8963040482289377932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 195
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8576f93a7a31290800000000000000
+      internalID: -7920802998418712327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 195
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fef98868c503560800000000000000
+      internalID: 7291429529600388926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 195
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296a30a65b7202990800000000000000
+      internalID: -7412881326530648430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 195
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b08b678f7b128e60800000000000000
+      internalID: 7962957325691224249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 148
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b5a74fb57c616c0800000000000000
+      internalID: -4172928806954574996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 148
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819d4b4d00d3baeb0800000000000000
+      internalID: -4707601911707805416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 148
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883304cb53e186bd0800000000000000
+      internalID: -2636824365685001336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 148
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f0a2727b98703e0800000000000000
+      internalID: -2087548482533847257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 148
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e8f1d1ba85c8100800000000000000
+      internalID: 111561582728678932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_26
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 148
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f266691780e48af0800000000000000
+      internalID: -394943996450413831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 148
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f6ff4f40fbbd5a0800000000000000
+      internalID: -6495388009540653201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 101
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a4501bf1f59d200800000000000000
+      internalID: 205299847740607005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 101
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dee56edbacf4320800000000000000
+      internalID: 2544475231450230093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_30
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 101
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01d2a19e793d02f0800000000000000
+      internalID: -1005083926061723377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_31
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 101
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fc25280e73f99c0800000000000000
+      internalID: -3918351713390375082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 101
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a5619e4a027e5b0800000000000000
+      internalID: -5339262940567152066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 101
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a9aa60fa21c4190800000000000000
+      internalID: -7976980297039570396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 101
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a304353a94cf87af0800000000000000
+      internalID: -398291173819334598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 54
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0debc216bf67c9490800000000000000
+      internalID: -7738179237690163504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 54
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fbb153db90d47d0800000000000000
+      internalID: -2932677074103845105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 54
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42ab78d995a59f80800000000000000
+      internalID: -8100386274575408565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_38
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 54
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a2109c6aee598c0800000000000000
+      internalID: -3993023094489798123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_39
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 54
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4adb73dfb2ff950800000000000000
+      internalID: 6484950354998699228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_40
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 54
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71682c35795fbed0800000000000000
+      internalID: -2396098116682489478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 54
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1d8f4a2262ee660800000000000000
+      internalID: 7416907566564299181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCards_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26f6fefb16402a80800000000000000
+      internalID: -8493711811165096403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

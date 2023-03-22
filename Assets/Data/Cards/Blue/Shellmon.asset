@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c54942323e875a843b58b36e604230d1, type: 3}
+  m_Name: Shellmon
+  m_EditorClassIdentifier: 
+  CardSprite: {fileID: 6498930384144656935, guid: 87bb956144832c44bb395e3846189dce,
+    type: 3}
+  ID: 128
+  cardColor: 2
+  AP: 13
+  HP: 15
+  CardsDescription: 
+  digimonTier: 1
+  specialTarget: 0
+  SpecialValue: 0
+  BothPlayersCount: 0
+  ComboCard: {fileID: 11400000, guid: 79e1730a726a4ec4ca79bafa9ee21769, type: 2}

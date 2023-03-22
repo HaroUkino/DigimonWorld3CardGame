@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c54942323e875a843b58b36e604230d1, type: 3}
+  m_Name: Betamon
+  m_EditorClassIdentifier: 
+  CardSprite: {fileID: -6745080708697901254, guid: 3a610238385c5ac40967f54ff57909bf,
+    type: 3}
+  ID: 186
+  cardColor: 1
+  AP: 2
+  HP: 1
+  CardsDescription: 
+  digimonTier: 0
+  specialTarget: 0
+  SpecialValue: 0
+  BothPlayersCount: 0
+  ComboCard: {fileID: 11400000, guid: f4fb74fcd7a210f44be46e1eb98a4963, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c54942323e875a843b58b36e604230d1, type: 3}
+  m_Name: Cherrymon
+  m_EditorClassIdentifier: 
+  CardSprite: {fileID: -152891171540152105, guid: 3a610238385c5ac40967f54ff57909bf,
+    type: 3}
+  ID: 163
+  cardColor: 1
+  AP: 28
+  HP: 22
+  CardsDescription: 
+  digimonTier: 2
+  specialTarget: 0
+  SpecialValue: 0
+  BothPlayersCount: 0
+  ComboCard: {fileID: 11400000, guid: 15779f46d38a8a94791f6837f1072c4b, type: 2}
